@@ -1,0 +1,16 @@
+Nombre: Berta Puesto: Jefe
+DNI: 89765646H
+Banco de abono: Banco Santander
+---------------------------------------------------------
+| Concepto | Complementos | Deducciones|
+---------------------------------------------------------
+| Salario mes: | 850000.0€ | |
+| Por trienios: | 5€ | |
+| Horas extra: | 0€ | |
+| Por jefe: | 15€ | |
+| IRPF: | | 8.0€ |
+| Desempleo: | | 10€ |
+| Contingencias: | | 25€ |
+---------------------------------------------------------
+| A percibir: 849977,000€ |
+---------------------------------------------------------

@@ -1,0 +1,16 @@
+Nombre: Maria Puesto: Tecnico
+DNI: 45327881R
+Banco de abono: Santander
+---------------------------------------------------------
+| Concepto | Complementos | Deducciones|
+---------------------------------------------------------
+| Salario mes: | 90000.0€ | |
+| Por trienios: | 5€ | |
+| Horas extra: | 0€ | |
+| Por jefe: | 15€ | |
+| IRPF: | | 9.0€ |
+| Desempleo: | | 120.0€ |
+| Contingencias: | | 352.5€ |
+---------------------------------------------------------
+| A percibir: 89538,500€ |
+---------------------------------------------------------

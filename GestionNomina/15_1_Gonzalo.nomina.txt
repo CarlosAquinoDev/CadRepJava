@@ -1,0 +1,16 @@
+Nombre: Gonzalo Puesto: Jefe
+DNI: 32898056L
+Banco de abono: Sabadel
+---------------------------------------------------------
+| Concepto | Complementos | Deducciones|
+---------------------------------------------------------
+| Salario mes: | 890000.0€ | |
+| Por trienios: | 4€ | |
+| Horas extra: | 0€ | |
+| Por jefe: | 15€ | |
+| IRPF: | | 2.0€ |
+| Desempleo: | | 10€ |
+| Contingencias: | | 25€ |
+---------------------------------------------------------
+| A percibir: 889982,000€ |
+---------------------------------------------------------

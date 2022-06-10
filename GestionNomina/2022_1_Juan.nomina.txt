@@ -1,0 +1,16 @@
+Nombre: Juan Puesto: Administracion
+DNI: 12655443J
+Banco de abono: Banco Santander
+---------------------------------------------------------
+| Concepto | Complementos | Deducciones|
+---------------------------------------------------------
+| Salario mes: | 34000.0€ | |
+| Por trienios: | 4€ | |
+| Horas extra: | 0€ | |
+| Por jefe: | 0.0€ | |
+| IRPF: | | 10.0€ |
+| Desempleo: | | 45.333333333333336€ |
+| Contingencias: | | 133.16666666666669€ |
+---------------------------------------------------------
+| A percibir: 33815,500€ |
+---------------------------------------------------------
